@@ -86,6 +86,3 @@ You **do not** need to run it from a specific install path.
 ```bash
 pyinstaller --onefile --noconsole --name NetSpeedMonitor --icon=neticon.ico main.py
 
-
-📄 License
-MIT License – free to use, distribute, and modify.
